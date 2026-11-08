@@ -1,0 +1,7 @@
+*.nc
+*.npy
+*.tar.gz
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+_basd_tmp/
